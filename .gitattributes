@@ -4,3 +4,4 @@ test.txt merge=ours
 config.js merge=ours
 /dist merge=ours
 proxy.js merge=ours
+gitFile/ merge=ours
